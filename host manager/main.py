@@ -4,9 +4,10 @@
     It works just with show * command
     The netword devices need to have username and password already configured
     The comm  protocol is SSH 
-    1. First add he hostname, ip, username and password and press "Add host" button
-    2. Write the command to send, select the destination host from list
-    3. Click "Send" button and the output will be displayed in the output window
+    1. Activate python virtual env (cd Scripts -> activate)
+    2. First add he hostname, ip, username and password and press "Add host" button
+    3. Write the command to send, select the destination host from list
+    4. Click "Send" button and the output will be displayed in the output window
 '''
 
 # import the libs
